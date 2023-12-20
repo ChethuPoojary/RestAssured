@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T18:07:46 IST" name="APIAutomtionDemo" finished-at="2023-12-19T18:07:47 IST" duration-ms="352">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T18:07:46 IST" name="DDT" finished-at="2023-12-19T18:07:47 IST" duration-ms="352">
+      <class name="DataProvider.DDT">
+        <test-method signature="runtest()[pri:0, instance:DataProvider.DDT@babafc2]" started-at="2023-12-19T18:07:46 IST" name="runtest" finished-at="2023-12-19T18:07:47 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest -->
+      </class> <!-- DataProvider.DDT -->
+    </test> <!-- DDT -->
+  </suite> <!-- APIAutomtionDemo -->
+</testng-results>

@@ -1,0 +1,12 @@
+<suite name="APIAutomtionDemo" >
+	
+  <test verbose="2" name="DDT" >
+    <classes>
+		<class name="DataProvider.DDT" />
+    </classes>
+    
+  
+  </test>
+ 
+  
+</suite>

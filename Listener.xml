@@ -1,0 +1,18 @@
+<suite name="APIAutomtionDemo" >
+	<Listeners>
+		<Listener class-name = "Listner.CustomListener" ></Listener>
+	</Listeners>
+  <test verbose="2" name="Listen" >
+    <classes>
+		
+       <class name="Listner.ListnerDemo" />
+    </classes>
+    
+  
+      
+    
+    
+  </test>
+ 
+  
+</suite>
